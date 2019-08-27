@@ -3,6 +3,8 @@ layout: post
 mathjax: true
 title: Climate-crisis aware computation of transfer entropies!
 ---
+TLDR; Multivariate transfer entropy computations consume enormous amounts of energy. below are some thoughts on how to reduce it or to avoid it altogether. 
+
 Transfer entropy measures the information transferred from a source to a target. when systems have mutliple components that exchange information it is important to keep track of which route infomration takes from one part of the system (the source) to another (the target), and to keep track of redudant sources of information and of sets of sources that can only be detected when considered jointly as an information source. To solve these problem a conditonal transfer entropy (or multivariate transfer entropy) can be computed.
 
 Unfortunately, full blown, multivariate computations of transfer entropies consume a lot of time and energy. With our current energy mix they also tend to produce a lot of CO2. Below are some hints to reduce the damage done by computing TEs:
