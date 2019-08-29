@@ -14,4 +14,5 @@ Unfortunately, full blown, multivariate computations of transfer entropies consu
 - Funny suggestions, but serious, nonetheless: Think about computing mostly in winter, such that your workstations or little cluster can help heating your office. This way you'll save a little of the energy invested in heating.
 - Always try to compute on the most efficient machine(s) available, even if this means a little more effort (e.g. tranferring data, or doing some benchmarking beforehand) 
 - If you have time and multiple datasets compute mTE for some datasets from parts of different size. If mTE analyses stabilize before using the full dataset you may consider using only parts of that smaller size (you may also have the additional benefit of doing test-retest reliability analyses). As the computation scales with n^2, where n is the number of samples, you will save a lot of time and energy.
+- Help us making our code more efficient by contributing to IDTxl. W ethink there is still untapped optimization potential in our GPU codes.
 - (to be continued/updated)
