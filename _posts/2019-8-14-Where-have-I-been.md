@@ -2,7 +2,7 @@
 layout: post
 title:  Where have I been?
 ---
-Seen from the perspective of the scientific community at large I have gone mostly silent in the last 1.5 years. So many may ask where I have been and what I have been doing.
+Seen from the perspective of the scientific community at large I have gone mostly silent in the last 1.5 years (EDIT on 2019-11-01: Some friends have pointed out that with 11 papers in that time i wasn't so silent after all, maybe just interacting less at a personal level...). So many may ask where I have been and what I have been doing.
 
 
 The boring answer is that applying for a new position, negotiating a deal and then moving your lab (while keeping your old one running for some years) takes an awful amount of time, and in a pretty unpredictable fashion. Also, I participated in several grant proposals with colleagues in Göttignen almost immediately after the hire (thanks for taking me on board very quickly) and a surprisingly large fraction of these turned out to be succesful - bringing with them some more administrative duties :-).
